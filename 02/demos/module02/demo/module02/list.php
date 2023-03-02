@@ -1,10 +1,10 @@
 <html>
 <head>
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "password";
-    $dbname = "phpsampledb";        
+        $servername = "localhost";
+        $username = "rootdb";
+        $password = "root";
+        $dbname = "phpsampledb01";        
     
     // open MySQL connection
     $conn = new mysqli($servername, $username, $password, $dbname);

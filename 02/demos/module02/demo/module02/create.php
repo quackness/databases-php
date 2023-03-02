@@ -19,9 +19,10 @@
     if(isset($_POST["fname"]) && isset($_POST["lname"]) && isset($_POST["email"]))
     {
         $servername = "localhost";
-        $username = "root";
-        $password = "password";
-        $dbname = "phpsampledb";        
+        $username = "rootdb";
+        $password = "root";
+        $dbname = "phpsampledb01";     
+        // $db_socket = '/Applications/MAMP/tmp/mysql/mysql.sock';   
         
         // open MySQL connection
         $conn = new mysqli($servername, $username, $password, $dbname);
