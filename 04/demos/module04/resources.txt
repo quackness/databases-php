@@ -1,0 +1,6 @@
+https://www.php.net/manual/en/book.pdo.php
+https://www.php.net/manual/en/pdo.drivers.php
+https://www.php.net/manual/en/ref.pdo-dblib.php
+
+https://docs.microsoft.com/en-ca/sql/connect/php/download-drivers-php-sql-server?view=sql-server-ver15
+

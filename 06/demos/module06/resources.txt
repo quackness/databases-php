@@ -1,0 +1,30 @@
+
+https://www.doctrine-project.org/
+https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html
+https://www.doctrine-project.org/projects.html
+
+https://www.doctrine-project.org/projects/doctrine-dbal/en/current/
+https://www.doctrine-project.org/projects/doctrine-dbal/en/current/reference/introduction.html
+https://www.doctrine-project.org/projects/doctrine-dbal/en/2.10/reference/configuration.html
+https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/reference/working-with-objects.html
+https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/reference/working-with-objects.html#removing-entities
+
+https://getcomposer.org/download/
+
+===================================
+commands: run in \module06\ folder:
+
+vendor\bin\doctrine orm:schema-tool:create
+
+vendor\bin\doctrine orm:schema-tool:update --force
+
+vendor\bin\doctrine orm:schema-tool:update --force --dump-sql
+
+
+
+
+
+
+
+
+

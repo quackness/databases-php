@@ -1,0 +1,21 @@
+Getting Started
+===============
+
+MySQL installer
+---------------
+https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/
+https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/windows-installation.html
+https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/mysql-installer.html
+https://dev.mysql.com/downloads/installer/
+
+PHPMyAdmin
+----------
+https://www.phpmyadmin.net/
+
+Visual Studio Code
+------------------
+https://code.visualstudio.com/
+
+
+
+
