@@ -1,10 +1,10 @@
 <html>
 <head>
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "password";
-    $dbname = "phpsampledb";          
+        $servername = "localhost";
+        $username = "rootdb";
+        $password = "root";
+        $dbname = "phpsampledb01";       
     
     try{
         // open MySQL connection with PDO
@@ -30,6 +30,7 @@
     <th>LastName</th>
     <th>Email</th>
     </tr>
+    <!-- //display the rows -->
     <?php foreach($conn->query($sql) as $row) { ?>
         <tr>
             <td><?php print $row["id"] ?></td>

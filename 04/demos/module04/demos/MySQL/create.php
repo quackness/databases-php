@@ -22,9 +22,9 @@
     {
 
         $servername = "localhost";
-        $username = "root";
-        $password = "password";
-        $dbname = "phpsampledb";         
+        $username = "rootdb";
+        $password = "root";
+        $dbname = "phpsampledb01";         
         
         $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
 
